@@ -1,8 +1,8 @@
 ## Hello, I am Maithili Wade 👋
 
-**From Architecture to Coding: My Journey** 
+**Aspiring Data Analyst | Turning Data into Insights** 
 
-Welcome to my Github Profile! I am Maithili Wade, currently pursuing Master's in Computer Software Engineering from Northeastern University. My career journey is a bit unconventional as I transitioned from being an Architect to diving deep into the world of software engineering. Here's a little about my path and what drives me. 
+Welcome to my GitHub profile! I’m currently pursuing a Master’s in Information Systems at Northeastern University, and I’m deeply interested in data analytics and data science. I enjoy working with data, uncovering patterns, and building solutions that help drive better decisions. 
 
 🌟 **About Me**
 
@@ -11,33 +11,21 @@ Welcome to my Github Profile! I am Maithili Wade, currently pursuing Master's in
   - Master's in Computer Software Engineering, Northeastern University, Boston, USA
   - Bachelor's in Architecture, Sir J J College of Architecture, Mumbai, India
  
-- 🏢 **Previous Experience:**
+- 🔄 **About Me**
 
-  - Architect (Self Employed), Boisar, India 
-  - Architectural Intern, Architect Rushikesh H, Mumbai, India
- 
-- 🔄 **Transition:**
+I am passionate about:
+  - Analyzing datasets to extract meaningful insights
+  - Cleaning and transforming raw data into usable formats
+  - Building dashboards and visualizations
+  - Writing efficient SQL queries
+  - Using Python for data analysis and automation
 
-  - As an architect, I developed a keen eye for detail, refined my problem-solving abilities and mastered project management. These experiences have become invaluable as I venture into software engineering. The principles of designing and constructing physical spaces have given me a unique perspective on creating efficient, user-centered software solutions.
- 
-  - My journey from architecture to software engineering reflects my fearless approach to change and my go-getter attitude. I thrive on challenges and view every obstacle as an opportunity to learn and grow. Embracing this transition has taught me the importance of resilience, adaptability and continuous improvement, allowing me to seamlessly integrate my architectural expertise with my newfound passion for coding.
+I’m particularly interested in roles where I can:
+  - Work with real-world business data
+  - Improve reporting processes
+  - Identify trends and performance metrics
+  - Support decision-making through analytics
 
-- 💻 **What I’m Working On**
-
-  - Currently, I am building my skills in full-stack development, with a focus on:
-    
-      - Frontend: React.js
-      - Backend: Node.js, Python
-      - Databases: MySQL, MongoDB
-   
-- 📚 **What I’m Learning** 
-
-  - Data Structures and Algorithms
-  - Web Designing and User Experience
-
-- 📈 **My Goals**
-
-  - To be as innovative and creative as possible in everything I undertake, constantly pushing the boundaries of what's possible in both Architecture and Technology.
 
 - 💻 **My Tech Stack**
 
